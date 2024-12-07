@@ -1,16 +1,38 @@
-## Hi there 👋
+<table>
+  <tr>
+    <td style="width: 50%;">
+       <img src="https://github.com/lgjohann.png" alt="Avatar" style="width: 200%; border: none;"/>
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      <p style="font-family: monospace; font-size: 16px;">
+       
+    Guilherme Johann
 
-<!--
-**lgjohann/lgjohann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
 
-Here are some ideas to get you started:
+    /About_Me
+    │
+    ├── bio.txt
+    │   ├── he/him - brazilian - (pt/br + english)
+    │   ├── backend developer
+    │   │   └── at startup /nhamandu
+    │   ├── computer science student (2° semester)
+    │
+    ├── os
+    │     └── Windows 11: with WSL (Ubuntu 22.04)
+    │
+    │
+    ├── languages
+    │   ├── Python.py
+    │   ├── Java.java
+    │   ├── WEB
+    │   │   └── HTML.html
+    │   │   └── CSS.css
+    │   └── JavaScript.js
+    │
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+        
+        
+  </tr>
+</table>
