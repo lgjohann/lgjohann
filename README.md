@@ -12,8 +12,7 @@
     ├── bio.txt
     │   ├── he/him - brazilian - (pt/br + english)
     │   ├── backend developer
-    │   │   └── at startup /nhamandu
-    │   ├── computer science student (2° semester)
+    │   ├── computer science student
     │
     ├── os
     │     └── Windows 11: with WSL (Ubuntu 22.04)
