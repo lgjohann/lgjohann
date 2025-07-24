@@ -5,4 +5,16 @@
        
     Guilherme Johann
 
+    - brazilian
+    - pt-br / en / it
+    - fullstack developer
+    
+    - stack
+    -------
+    Java + Spring Boot
+    Python
+    Typescript
+    React
+    Next.js
+    -------
 </table>
